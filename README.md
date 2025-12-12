@@ -18,13 +18,12 @@ protein function prediction using deep learning and ESM2 embeddings.
     - `README.txt` – detailed description of all files in `project/`
     - `data/sample_data.npz` – small sample of precomputed ESM2 embeddings
     - `src/` – helper Python modules (data loading, model, training, prediction)
-    - `models/best_model_small.pth` – saved demo model weights
-
+      
 ---
 
 ## How to use
 
-1. Download `project.zip` from this repository.
+1. Download `FinalProject.zip` from this repository.
 2. Unzip it to get the `project/` folder.
 3. Open `project/project.ipynb` in Jupyter, VS Code, or Google Colab.
 4. Run all cells from top to bottom to:
